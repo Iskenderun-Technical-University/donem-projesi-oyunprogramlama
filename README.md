@@ -1,1 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/gTiETg9a)
+![alt text](https://github.com/Iskenderun-Technical-University/donem-projesi-oyunprogramlama/blob/main/Other/1.PNG)
+
+![alt text](https://github.com/Iskenderun-Technical-University/donem-projesi-oyunprogramlama/blob/main/Other/2.PNG)
+
+![alt text](https://github.com/Iskenderun-Technical-University/donem-projesi-oyunprogramlama/blob/main/Other/3.PNG)
