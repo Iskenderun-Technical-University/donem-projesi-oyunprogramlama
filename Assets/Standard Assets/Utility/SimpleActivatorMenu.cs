@@ -8,7 +8,7 @@ namespace UnityStandardAssets.Utility
     {
         // An incredibly simple menu which, when given references
         // to gameobjects in the scene
-   
+        
         public GameObject[] objects;
 
 
@@ -33,7 +33,7 @@ namespace UnityStandardAssets.Utility
             }
 
             m_CurrentActiveObject = nextactiveobject;
-            
+           
         }
     }
 }
