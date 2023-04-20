@@ -1,5 +1,1 @@
-![alt text](https://github.com/Iskenderun-Technical-University/donem-projesi-oyunprogramlama/blob/main/Other/1.PNG)
-
-![alt text](https://github.com/Iskenderun-Technical-University/donem-projesi-oyunprogramlama/blob/main/Other/2.PNG)
-
-![alt text](https://github.com/Iskenderun-Technical-University/donem-projesi-oyunprogramlama/blob/main/Other/3.PNG)
+[Proje Tasarım Belgesi Link](https://github.com/Iskenderun-Technical-University/donem-projesi-oyunprogramlama/blob/main/oyun_programlama_proje_tasarim_belgesi.pdf)
