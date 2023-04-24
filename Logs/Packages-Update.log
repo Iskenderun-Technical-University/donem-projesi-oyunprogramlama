@@ -63,3 +63,11 @@ The following packages were added:
   com.unity.cinemachine@2.8.9
   com.unity.inputsystem@1.5.0
   com.unity.render-pipelines.universal@12.1.10
+
+=== Mon Apr 24 22:56:19 2023
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.postprocessing@3.2.2
